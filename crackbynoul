@@ -1,5 +1,5 @@
 -- Instances:
--- the very new version with dripped out UI
+-- the very new version with dripped out UIxd
 
 local febypass = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
