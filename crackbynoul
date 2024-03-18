@@ -48,7 +48,7 @@ local exit_2 = Instance.new("TextButton")
 
 -- Propiedades de las instancias:
 
-febypass.Name = "RC7 EJECUTOR PUERTA TRASERA (CRACKED)"
+febypass.Name = "RC7 EJECUTOR PUERTA TRASERA"
 febypass.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 febypass.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 febypass.ResetOnSpawn = false
